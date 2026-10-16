@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+Pillow
+qdrant-client
+sentence-transformers
+torch
